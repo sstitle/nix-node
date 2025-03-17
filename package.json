@@ -1,5 +1,5 @@
 {
-  "name": "nix-node",
+  "name": "docker-experiment",
   "private": true,
   "version": "0.0.0",
   "type": "module",
